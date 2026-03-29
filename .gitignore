@@ -1,0 +1,98 @@
+# ========================================
+# SALESFORCE & DOCUMENTATION
+# ========================================
+salesforce/
+*.md
+
+# ========================================
+# NODE.JS / FRONTEND
+# ========================================
+node_modules/
+dist/
+build/
+.env
+.env.local
+.env.*.local
+npm-debug.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.DS_Store
+.vscode/settings.json
+.idea/
+
+# ========================================
+# PYTHON / BACKEND
+# ========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.venv/
+venv.bak/
+env.bak/
+*.log
+
+# ========================================
+# GENERAL
+# ========================================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+.vscode/
+.idea/
+*.code-workspace
+.vercel
+.turbo
+
+# ========================================
+# OS SPECIFIC
+# ========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+desktop.ini
+.sfdx

@@ -1,0 +1,16 @@
+[
+    {
+        "roll_no": 1,
+        "name": "Sujal Ghatiya",
+        "email": "sujalghatiya96@gmail.com",
+        "course": "Software Engineer",
+        "id": "98cdc2e9-0d8f-411c-99d4-5b85a0d1d681"
+    },
+    {
+        "roll_no": 2,
+        "name": "Mohan",
+        "email": "Mohansharma@gmail.in",
+        "course": "B.E Cse",
+        "id": "34aae851-b37a-42e2-b797-c68b08a64941"
+    }
+]
